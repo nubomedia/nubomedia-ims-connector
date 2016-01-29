@@ -7,7 +7,7 @@ The IMS Connector is a light weight library which can be used on an IMS User Age
 Issue tracker
 -------------
 
-Issues and bug reports should be posted to the [GitHub NUBOMEDIA-PaaS Issue List](https://github.com/fhg-fokus-nubomedia/nubomedia-paas/issues)
+Issues and bug reports should be posted to the [GitHub Issue List](https://github.com/fhg-fokus-nubomedia/ims-connector/issues)
 
 Licensing and distribution
 --------------------------
