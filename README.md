@@ -112,7 +112,7 @@ To test and validate the IMS connector on your IMS network, a sample tutorial ca
 Issue tracker
 -------------
 
-Issues and bug reports should be posted to the [GitHub Issue List](https://github.com/fhg-fokus-nubomedia/ims-connector/issues)
+Issues and bug reports should be posted to the [GitHub Issue List](https://github.com/fhg-fokus-nubomedia/nubomedia-ims-connector/issues)
 
 Licensing and distribution
 --------------------------
